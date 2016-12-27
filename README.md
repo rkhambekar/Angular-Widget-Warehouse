@@ -1,4 +1,1 @@
-ngCart-website
-======
-
-Code for:  http://ngcart.snapjay.com/
+Walter's Widget Warehouse
