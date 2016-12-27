@@ -1,0 +1,48 @@
+[
+    {
+        "age": 0,
+        "id": "Cogwheel-small",
+        "imageUrl": "img/products/cogwheel-small.png",
+        "name": "Cogwheel-sm",
+        "snippet": "This small toothy monster can be combined to create the smoothest change in speed or direction of the motion."
+    },
+
+    {
+        "age": 1,
+        "id": "Cogwheel-med",
+        "imageUrl": "img/products/cogwheel-medium.png",
+        "name": "Cogwheel-med",
+        "snippet": "This medium toothy monster can be combined to create the smoothest change in speed or direction of the motion."
+    },
+
+    {
+        "age": 2,
+        "id": "Cogwheel-large",
+        "imageUrl": "img/products/cogwheel-large.png",
+        "name": "Cogwheel-large",
+        "snippet": "This large toothy monster can be combined to create the smoothest change in speed or direction of the motion."    },
+
+    {
+        "age": 3,
+        "id": "Micro Sensor Series 3000",
+        "imageUrl": "img/products/micro-sensor.jpg",
+        "name": "Micro Sensor Series 3000",
+        "snippet": "Even the tiniest variation in the magnetism will trigger this little wonder."
+    },
+
+    {
+        "age": 4,
+        "id": "Twirly-Whirly-Sm",
+        "imageUrl": "img/products/twirly-whirly-small.jpg",
+        "name": "Twirly-Whirly-Sm",
+        "snippet": "Give the power of flight to your contraptions with these small light-weight motorized rotors."
+    },
+
+    {
+        "age": 5,
+        "id": "Twirly-Whirly-Medium",
+        "imageUrl": "img/products/twirly-whirly-medium.jpg",
+        "name": "Twirly-Whirly-Medium",
+        "snippet": "Give the power of flight to your contraptions with these medium light-weight motorized rotors."
+    }
+]
