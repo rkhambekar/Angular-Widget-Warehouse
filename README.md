@@ -1,1 +1,1 @@
-Walter's Widget Warehouse
+AngularJS widget store with a checkout option
